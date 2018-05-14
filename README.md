@@ -2,7 +2,7 @@
 # 4chan X
 4chan X is an unofficial script written by users of 4chan to add various features to the site.
 
-It was previously developed by [aeosynth](https://github.com/aeosynth/4chan-x), [Mayhem](https://github.com/MayhemYDG/4chan-x), [ihavenoface](https://github.com/ihavenoface/4chan-x), [Zixaphir](https://github.com/zixaphir/appchan-x), [Seaweed](https://github.com/seaweedchan/4chan-x), and [Spittie](https://github.com/Spittie/4chan-x), with contributions from many others.
+It was previously developed by [aeosynth](https://github.com/aeosynth/4chan-x), [Mayhem](https://github.com/MayhemYDG/4chan-x), [ihavenoface](https://github.com/ihavenoface/4chan-x), [Zixaphir](https://github.com/zixaphir/appchan-x), [Seaweed](https://github.com/seaweedchan/4chan-x), [Spittie](https://github.com/Spittie/4chan-x), [ccd0](https://github.com/ccd0/4chan-x), Anonymous, Anon, with contributions from many others.
 
 If you're looking for a maintained fork of OneeChan (a style script used in addition to 4chan X), try
 https://github.com/Nebukazar/OneeChan.
