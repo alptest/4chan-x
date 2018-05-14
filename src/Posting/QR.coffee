@@ -26,7 +26,7 @@ QR =
 
     @posts = []
 
-    return if g.VIEW is 'archive'
+
 
     @captcha = Captcha.v2
 
