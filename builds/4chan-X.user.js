@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         4chan X beta
+// @name         4chan X
 // @version      1.14.0.15
 // @minGMVer     1.14
 // @minFFVer     26
@@ -53,8 +53,8 @@
 // @grant        GM.openInTab
 // @grant        GM.xmlHttpRequest
 // @run-at       document-start
-// @updateURL    https://www.4chan-x.net/builds/4chan-X-beta.meta.js
-// @downloadURL  https://www.4chan-x.net/builds/4chan-X-beta.user.js
+// @updateURL    https://www.4chan-x.net/builds/4chan-X.meta.js
+// @downloadURL  https://www.4chan-x.net/builds/4chan-X.user.js
 // @icon         data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAMAAABg3Am1AAAACVBMVEUAAGcAAABmzDNZt9VtAAAAAXRSTlMAQObYZgAAAF5JREFUeNrtkTESABAQxPD/R6tsE2dUGYUtFJvLDKf93KevHJAjpBorAQWSBIKqFASC4G0pCAkm4GfaEvgYXl0T6HBaE97f0vmnfYHbZOMLZCx9ISdKWwjOWZSC8GYm4SUGwfYgqI4AAAAASUVORK5CYII=
 // ==/UserScript==
 
