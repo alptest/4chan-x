@@ -53,7 +53,7 @@ QR =
 
   initReady: ->
     QR.postingIsEnabled = !!$.id 'postForm'
-    return unless QR.postingIsEnabled
+    
 
     {config} = g.BOARD
     prop = (key, def) -> +(config[key] ? def)
